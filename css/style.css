@@ -6,6 +6,10 @@
   margin-left: 15px;
 }
 
+.navbar {
+  background-color: gray;
+}
+
 .dropdown-menu.show {
   left: 50%;
   transform: translateX(-50%);
@@ -13,6 +17,8 @@
   width: 100vw;
 }
 
-strong {
-  color: white;
+li {
+  margin-top: 2px;
+  border: 2px;
+  background-color: white;
 }
