@@ -1,3 +1,18 @@
 .container-fluid {
   padding: 0;
 }
+
+.navbar-brand {
+  margin-left: 15px;
+}
+
+.dropdown-menu.show {
+  left: 50%;
+  transform: translateX(-50%);
+  top: 100%;
+  width: 100vw;
+}
+
+strong {
+  color: white;
+}
